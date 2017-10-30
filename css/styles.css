@@ -56,7 +56,7 @@ body {
   margin-top: -60px;
 }
 .container .jumbotron {
-  box-shadow: 0 0 50px #3F0C1F;
+  box-shadow: 0 0 20px #3F0C1F;
   border: 2px solid #3F0C1F;
 }
 #menu-tile, #specials-tile, #map-tile {
@@ -72,11 +72,11 @@ body {
 }
 
 #menu-tile {
-  background: url('../images/menu-tile.jpg') no-repeat;
+  background: url('../images/Screenshot_1.png') no-repeat;
   background-position: center;
 }
 #specials-tile {
-  background: url('../images/specials-tile.jpg') no-repeat;
+  background: url('../images/Screenshot_2.png') no-repeat;
   background-position: center;
 }
 
@@ -99,14 +99,25 @@ body {
   background-color: #222;
   border-top: 0;
 }
+#hours ul li:hover{
+  color:grey;
+}
+
+#hours ul li{
+ padding-right: 40px;
+}
 .panel-footer div.row {
   margin-bottom: 35px;
 }
 #hours, #address {
-  line-height: 2;
+  line-height: 1.5;
 }
-#hours > span, #address > span {
-  font-size: 1.3em;
+#hours > span, #address > span, #iletisim > span {
+  font-size: 1.4em;
+  text-align: center;
+}
+#mail{
+  color: red;
 }
 #address p {
   color: #557c3e;
