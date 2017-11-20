@@ -50,16 +50,14 @@
     </nav>
   </header>
   <div id="main-content" class="container">
-      <div class="jumbotron">
-        <img src="http://bilmuh.ege.edu.tr/sites/default/files/styles/my_slideshow/public/1937118_104342603601_2403194_n.jpg?itok=d9EkZ-AY" alt="Picture of restaurant" class="img-responsive visible-xs">
-      </div>
+      <div id="inner-content"></div>
 
       <div id="home-tiles" class="row">
           <div class="col-md-4 col-sm-6 col-xs-12">
-            <a href="menu-categories.html"><div id="menu-tile"><span>eğitim</span></div></a>
+            <a href="#"><div id="menu-tile" onclick="$bilmuh.loadEgitim()"><span>eğitim</span></div></a>
           </div>
           <div class="col-md-4 col-sm-6 col-xs-12">
-            <a href="single-category.html"><div id="specials-tile"><span>personel</span></div></a>
+            <a href="#"><div id="specials-tile"><span>personel</span></div></a>
           </div>
           <div class="col-md-4 col-sm-12 col-xs-12">
             <a href="https://www.google.com.tr/maps/place/Ege+%C3%9Cniversitesi+Bilgisayar+M%C3%BChendisli%C4%9Fi+B%C3%B6l%C3%BCm%C3%BC/@38.4579885,27.2112153,17z/data=!3m1!4b1!4m5!3m4!1s0x14b97d2edf7e8e55:0x5fcc67a77466c8f3!8m2!3d38.4579885!4d27.213404" target="_blank">
@@ -70,7 +68,7 @@
             </a>
           </div>
      </div>
-  </div>
+ </div>
 
   <footer class="panel-footer">
       <div class="container">
@@ -122,5 +120,6 @@
   <script src="js/jquery-2.1.4.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
   <script src="js/script.js"></script>
+  <script src="js/ajax-utils.js"></script>
 </body>
 </html>

@@ -1,0 +1,68 @@
+[
+    {
+      "name": "Lisans",
+      "foto": "../images/Screenshot_1.png",
+      "donemler": [
+        {
+          "name": "Güz",
+          "foto": "",
+          "sınıf": [
+            {
+              "id": "1",
+              "ders_programı": "http://program.bilmuh.ege.edu.tr/view_schedule.php?type=education&academic_year=18&education=1&faculty=&class=&semester=1&class_year=1&course_info=off"
+            },
+            {
+              "id": "2",
+              "ders_programı": "http://program.bilmuh.ege.edu.tr/view_schedule.php?type=education&academic_year=18&education=1&faculty=&class=&semester=1&class_year=2&course_info=off"
+            },
+            {
+              "id": "3",
+              "ders_programı": "http://program.bilmuh.ege.edu.tr/view_schedule.php?type=education&academic_year=18&education=1&faculty=&class=&semester=1&class_year=3&course_info=off"
+            },
+            {
+              "id": "4",
+              "ders_programı": "http://program.bilmuh.ege.edu.tr/view_schedule.php?type=education&academic_year=18&education=1&faculty=&class=&semester=1&class_year=4&course_info=off"
+            }
+          ]
+        },
+        {
+          "name": "Bahar",
+          "foto": "",
+          "sınıf": [
+            {
+              "id": "1",
+              "ders_programı": "http://program.bilmuh.ege.edu.tr/view_schedule.php?type=education&academic_year=18&education=1&faculty=&class=&semester=2&class_year=1&course_info=off"
+            },
+            {
+              "id": "2",
+              "ders_programı": "http://program.bilmuh.ege.edu.tr/view_schedule.php?type=education&academic_year=18&education=1&faculty=&class=&semester=2&class_year=2&course_info=off"
+            },
+            {
+              "id": "3",
+              "ders_programı": "http://program.bilmuh.ege.edu.tr/view_schedule.php?type=education&academic_year=18&education=1&faculty=&class=&semester=2&class_year=3&course_info=off"
+            },
+            {
+              "id": "4",
+              "ders_programı": "http://program.bilmuh.ege.edu.tr/view_schedule.php?type=education&academic_year=18&education=1&faculty=&class=&semester=2&class_year=4&course_info=off"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yüksek Lisans",
+      "foto": "../images/Screenshot_2.png",
+      "donemler": [
+        {
+          "guzname": "Güz",
+          "guzfoto": "",
+          "ders_programı": "http://program.bilmuh.ege.edu.tr/view_schedule.php?type=education&academic_year=18&education=2&semester=1&class_year=1&course_info=off"
+        },
+        {
+          "baharname": "Bahar",
+          "baharfoto": "",
+          "ders_programı": "http://program.bilmuh.ege.edu.tr/view_schedule.php?type=education&academic_year=18&education=2&semester=2&class_year=1&course_info=off"
+        }
+      ]
+    }
+  ]
