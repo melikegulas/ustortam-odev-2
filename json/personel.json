@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Ogretim Uyeleri",
+    "foto": "images/ogretimuyesi.jpg",
+    "personeller": [
+      {
+        "name": "Oğuz Dikenelli",
+        "foto": "images/oguz_dikenelli.jpg",
+        "job": "Bölüm Başkanı",
+        "phone": "0(232) 388 72 21",
+        "email": "oguz.dikenelli@ege.edu.tr"
+      },
+      {
+        "name": "Serdar Korukoğlu",
+        "foto": "images/serdar_korukoglu.jpg",
+        "job": "Bilgisayar Bilimleri Ana Bilim Dalı Başkanı",
+        "phone": "0(232) 311 25 86",
+        "email": "serdar.korukoglu@ege.edu.tr"
+      },
+      {
+        "name": "Levent TOKER",
+        "foto": "images/levent_toker.jpg",
+        "job": "Öğretim Üyesi",
+        "phone": "0(232)311 25 85",
+        "email": "toker1960@gmail.com"
+      },
+      {
+        "name": "Yasemin TOPALOĞLU",
+        "foto": "images/yasemin_topaloglu.jpg",
+        "job": "Öğretim Üyesi",
+        "phone": "0(232)311 25 91",
+        "email": "yasemin.topaloglu@ege.edu.tr"
+      },
+      {
+        "name": "Aylin KANTARCI",
+        "foto": "images/aylin_kantarci.jpg",
+        "job": "Bilgisayar Donanımı Ana Bilim Dalı Başkanı",
+        "phone": "0(232)311 53 16",
+        "email": "aylin.kantarci@ege.edu.tr"
+      },
+      {
+        "name": "Aybars UĞUR",
+        "foto": "images/aybars_ugur.jpg",
+        "job": "Bilgisayar Yazılımı Ana Bilim Dalı Başkanı",
+        "phone": "0(232)311 53 22",
+        "email": "aybars.ugur@ege.edu.tr"
+      },
+      {
+        "name": "Rıza Cenk ERDUR",
+        "foto": "images/cenk_erdur.jpg",
+        "job": "Bölüm Başkan Yardımcısı",
+        "phone": "0(232)311 25 97",
+        "email": "cenk.erdur@ege.edu.tr"
+      },
+      {
+        "name": "Murat Osman ÜNALIR",
+        "foto": "images/murat_osman_unalir.jpg",
+        "job": "Bölüm Başkan Yardımcısı",
+        "phone": "0(232)311 25 90",
+        "email": "murat.osman.unalir@ege.edu.tr"
+      },
+      {
+        "name": "Vecdi AYTAÇ",
+        "foto": "images/vecdi_aytac.jpg",
+        "job": "Öğretim Üyesi",
+        "phone": "0(232)311 53 24",
+        "email": "vecdi.aytac@ege.edu.tr"
+      }
+    ]
+  },
+  {
+    "name": "Akademik Yardimci",
+    "foto": "images/akademikyardimci.png",
+    "personeller": [
+      {
+        "name": "Özgün YILMAZ",
+        "foto": "images/ozgun_yilmaz.png",
+        "job": "Araştırma Görevlisi",
+        "phone": "0(232) 311 53 19",
+        "email": "ozgun.yilmaz@ege.edu.tr"
+      },
+      {
+        "name": "Birol ÇİLOĞLUGİL",
+        "foto": "images/birol_ciloglugil.jpg",
+        "job": "Araştırma Görevlisi",
+        "phone": "0(232) 311 25 93",
+        "email": "birol.ciloglugil@ege.edu.tr"
+      },
+      {
+        "name": "Osman Gökalp",
+        "foto": "images/osman_gokalp.jpg",
+        "job": "Araştırma Görevlisi",
+        "phone": "0(232)311 53 31",
+        "email": "osman.gokalp@ege.edu.tr"
+      },
+      {
+        "name": "Fatmana Şentürk",
+        "foto": "images/fatmana_senturk.jpg",
+        "job": "Araştırma Görevlisi",
+        "phone": "0(232)311 53 35",
+        "email": "fatmana.senturk@ege.edu.tr"
+      },
+      {
+        "name": "Remzi Çelebi",
+        "foto": "images/remzi_celebi.png",
+        "job": "ÖYP Araştırma Görevlisi",
+        "phone": "0(232)311 53 10",
+        "email": "remzi.celebi@ege.edu.tr"
+      },
+      {
+        "name": "Rabia KORKMAZ TAN",
+        "foto": "images/rabia_korkmaz.jpg",
+        "job": "ÖYP Araştırma Görevlisi",
+        "phone": "0(232)311 53 09",
+        "email": "rabia.korkmaz@ege.edu.tr"
+      },
+      {
+        "name": "Sevcan Emek",
+        "foto": "images/sevcan_emek.jpg",
+        "job": "ÖYP Araştırma Görevlisi",
+        "phone": "0(232)311 53 20",
+        "email": "sevcan.emek@ege.edu.tr"
+      },
+      {
+        "name": "Sema Bodur",
+        "foto": "images/sema_bodur.jpg",
+        "job": "ÖYP Araştırma Görevlisi",
+        "phone": "0(232)311 53 09",
+        "email": "sema.bodur@ege.edu.tr"
+      },
+      {
+        "name": "Sinem Çınaroğlu",
+        "foto": "images/sinem_cinaroglu.jpg",
+        "job": "ÖYP Araştırma Görevlisi",
+        "phone": "0(232)311 53 09",
+        "email": "sinem.oren@ege.edu.tr"
+      }
+    ]
+  },
+  {
+    "name": "Idari Teknik",
+    "foto": "images/idariteknik.jpg",
+    "personeller": [
+      {
+        "name": "Sibel Demirel",
+        "foto": "images/noprofile.png",
+        "job": "Bölüm Sekreteri",
+        "phone": "0(232) 388 71 21",
+        "email": "bilmuh@mail.ege.edu.tr"
+      },
+      {
+        "name": "Şevket Yıldız",
+        "foto": "images/noprofile1.gif",
+        "job": "Bölüm Sekreteri",
+        "phone": "0(232) 388 71 21",
+        "email": "sevket.yildiz@ege.edu.tr"
+      },
+      {
+        "name": "Beyhan Kılıç",
+        "foto": "images/noprofile.png",
+        "job": "Öğrenci İşleri Sorumlusu",
+        "phone": "0(232)311 20 87",
+        "email": ""
+      },
+      {
+        "name": "Faruk Erat",
+        "foto": "images/noprofile1.gif",
+        "job": "Danışma",
+        "phone": "0(232)311 53 13",
+        "email": "faruk.erat@ege.edu.tr"
+      },
+      {
+        "name": "Hayriye Uygun",
+        "foto": "images/hayriye_uygun.jpg",
+        "job": "Hizmetli",
+        "phone": "0(232)311 53 33",
+        "email": ""
+      },
+      {
+        "name": "Okan Çorbacıoğlu",
+        "foto": "images/okan_corbacioglu.png",
+        "job": "Hizmetli",
+        "phone": "0(232)311 53 33",
+        "email": ""
+      }
+    ]
+  }
+]
